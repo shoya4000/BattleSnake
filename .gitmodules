@@ -1,0 +1,3 @@
+[submodule "battlesnake-python"]
+	path = battlesnake-python
+	url = https://github.com/ericdand/battlesnake-python.git
